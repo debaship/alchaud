@@ -1,0 +1,62 @@
+
+---Downloaded files---
+The import files for: Burger Shop (WPBakery Builder) were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8080/iskconbdnew
+Data file = C:\Program Files\Ampps\www\iskconbdnew/wp-content/uploads/2021/06/demo-content-import-file_2021-06-04__13-05-51.xml
+Widget file = C:\Program Files\Ampps\www\iskconbdnew/wp-content/uploads/2021/06/demo-widgets-import-file_2021-06-04__13-05-51.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Footer Widgets : 
+
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+WooCommerce Widgets : 
+
+Product Search - No Title - Imported
+Products by Rating - Top rated products - Imported
+Product Categories - Categories - Imported
+Products by Rating - Top products - Imported
+
+
+
+---ocdi/after_import---
+
